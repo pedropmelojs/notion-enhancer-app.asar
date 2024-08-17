@@ -26,5 +26,5 @@ Replace the notion-enhanced app.asar with the one from this repo
 ```terminal
 $ cp app.asar /opt/Notion\ Enhanced/resources/app.asar
 ```  
-### Run Notion-enhanced
-     
+### And Voila!
+![alt text](https://raw.githubusercontent.com/pedropmelojs/notion-enhancer-app.asar/main/Notion.png) 
