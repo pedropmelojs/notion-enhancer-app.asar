@@ -6,16 +6,14 @@ Since Notion-enhanced is not updated anymore, and so i dont have to do the proce
 ### Install notion-enhancend 
 
 ```terminal
-foo@bar:~$ sudo pacman -S notion-app-enhanced
-foo
+$ sudo pacman -S notion-app-enhanced
 ```
 
 ### Go to notion directory
 Normally is on /opt/notion/ or in my case  /opt/Notion\ Enhanced/
 ```terminal
-foo@bar:~$ cd /opt/notion or cd /opt/Notion\ Enhanced/
-foo
-```
+$ cd /opt/notion or cd /opt/Notion\ Enhanced/
+```  
 
 
 app.asar fixed after notion-enhanced v2.0.18.1
