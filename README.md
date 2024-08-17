@@ -28,3 +28,5 @@ $ cp app.asar /opt/Notion\ Enhanced/resources/app.asar
 ```  
 ### And Voila!
 ![alt text](https://raw.githubusercontent.com/pedropmelojs/notion-enhancer-app.asar/main/Notion.png) 
+
+##### PS: The extracted files may be large. But its mostly the extracted files from the original app.asar that where modified, so you can check or modify it yourself.
